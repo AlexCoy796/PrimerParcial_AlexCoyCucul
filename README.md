@@ -6,3 +6,7 @@ Que consiste en un homenaje a los deportistas olímpicos guatemaltecos que tuvie
 
 Se utilizo una plugin de Facebook Comments, para la caja de comentario dentro de la pagina web, 
 en donde para que cada visitante pueda realizar un comentario, debe de iniciar sesión con Facebook. 
+
+Agrego el link de la pagina Web, publicada en un Host Gratuito, como lo es 000WebHost.
+
+https://paginaparcial1alexcoycucul.000webhostapp.com/
